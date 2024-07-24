@@ -2,4 +2,4 @@
 
 ## Architecture diagram
 
-![architecture_diagram](https://github.com/user-attachments/assets/0bd7e7c6-8258-4a45-86c0-417b6db8d088)
+![architecture_diagram](https://github.com/user-attachments/assets/3345fdac-2a7c-414b-b62b-41d406d6102a)
